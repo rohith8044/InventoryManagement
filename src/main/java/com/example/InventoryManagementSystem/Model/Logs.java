@@ -12,7 +12,7 @@ public class Logs {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long logId;
 
-    private Integer userId;
+
 
     private String action;
 
